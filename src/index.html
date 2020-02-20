@@ -4,9 +4,105 @@
     <meta charset="utf-8">
     <title>Tarjeta de crédito válida</title>
     <link rel="stylesheet" href="style.css" />
+
   </head>
+
   <body>
-    <header></header>
+    
+  <div id="contenedor" >
+
+    <div id="Presentacion">
+      <div class="formulario">
+          <label >CLASS CARD</label>
+          <img src="img/logo 4.png" class="img">
+
+        <div class="formulario">
+          <p>Obten tu tarjeta digital CLASS CARD</p>
+          <P>100% Gratis</P>
+          <P>Ya tengo cuenta</P>
+
+          <input type="submit" id="btnCrearCuenta" value="Crear mi Cuenta">
+        </div>    
+      </div>
+    </div>
+
+    <div id="Parte1" >
+      <div class="formulario">
+          <label >1. Titular de la Tarjeta</label>
+        
+        <div class="formulario">
+          <img src="img/logo 5.png" class="img">
+          <br>          
+          <label >Nombre completo:</label> 
+          <input type="text" id="txtNombre" name="txtNombre">
+          <br> 
+          <br>
+          <label >Apellido completo:</label> 
+          <input type="text" id="txtApellido" name="txtApellido">
+          <br>
+          <br>
+          <label >Correo electronico:</label> 
+          <input type="email" id="txtCorreo" name="txtCorreo">
+          <br>
+          <br>
+
+          <input type="submit" id="btnContinuar" value="Continuar">
+        </div>
+      </div>
+    </div>
+     
+    <div id="Parte2">
+      <div class="formulario">
+          <label >2. Datos de la Tarjeta</label>
+
+        <div class="formulario">
+          <label >Marca de la Tarjeta:</label> 
+          <input type="text" id="txtMarca" name="txtMarca">
+          <br> 
+          <br>
+          <label >Numero de la Tarjeta:</label> 
+          <input type="text" id="txtNumTarjeta" name="txtNumTarjeta" maxlength="16"   >
+          <br> 
+          <br>
+          <label >Codigo de Seguridad:</label> 
+          <input type="text" id="txtCodSeguridad" name="txtCodSeguridad" maxlength="3" > 
+          <br> 
+          <br>
+          <P>Fecha de Expiracion</P>
+          <label >Mes:</label> 
+          <input type="text" id="txtMes" name="txtMes" maxlength="2">
+          <br> 
+          <br>
+          <label >Año:</label> 
+          <input type="text" id="txtAno" name="txtAno" maxlength="4">  
+          <br> 
+          <br>
+
+          <input type="submit" id="btnValidar" value="Validar">
+       </div>
+      </div>
+   </div>
+
+    <div id="Parte3">
+      <div class="formulario">
+          <label >3. Tarjeta Bancaria </label> 
+          
+          <br><input type="submit" id="btnClasscard" value="Mi CLASS CARD"></br>
+
+        <div class="formulario">
+          <label>Numero de la Tarjeta</label>
+          <input type="text" id="txtNumTarjetaFinal" name="txtNumTarjetaFinal" readonly>
+          <br> 
+          <br>
+          <P>Hola " <label id="lblNombreFinal"></label>" </P>
+           <P>¡Tu Tarjeta de crédito ha sido validada!</P> 
+          <P>Su contraseña de esta cuenta ha sido enviada a su correo electronico.</P>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
     <main></main>
     <footer></footer>
     <script src="index.js" type="module"></script>

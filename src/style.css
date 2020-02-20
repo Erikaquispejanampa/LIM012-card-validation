@@ -1,0 +1,61 @@
+
+.etiqueta{
+    width: 100%x;
+    font-style: italic;
+    height: 100%;
+
+}
+
+.formulario{
+    border-style: ridge;
+    padding-top: 13px;
+    text-align: center;
+}
+
+.img{
+    width: 80px;
+    height: 50px;
+
+}
+
+
+
+
+table {
+    width: 60%;
+    border: 1px solid #000;
+ }
+ td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+    background-color: ghostwhite;
+ }
+ 
+ body{
+     width:50%;
+     /*
+     text-align:center;
+     height:600px;
+     */
+     /* background-image: url("13.gif"); */
+ 
+     margin:25%;
+     text-align:left;
+     margin-block-start: 1%;
+     margin-left: 25%;
+   }
+ 
+ #contenedor{
+ 
+     background-color: #FADF1B;
+     padding-left: 0%;
+     padding-block-end: 0%;
+     padding-top: 0%;
+   }
+ 
+ #btnProcesarTema1{
+ margin-right: 50px;
+ }
+ 
