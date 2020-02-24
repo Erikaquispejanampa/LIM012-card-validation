@@ -137,8 +137,6 @@ cómo tu aplicación lo soluciona.
   [Google Slides](https://www.google.com/intl/es/slides/about/), etc.)
 Estos puntos los presentarás en el `README.md`.
 
-Figma: https://www.figma.com/file/WH4xEqntOGbNVzwo6d5NoO/CREDIT-CARD-Colors?node-id=0%3A1
-
 
 ### Scripts / Archivos
 
@@ -164,7 +162,7 @@ Debe contener lo siguiente:
   <img src= "Desktop3.png">
   <img src= "Desktop4.png">
   <img src= "https://www.figma.com/file/WH4xEqntOGbNVzwo6d5NoO/CREDIT-CARD-Colors?node-id=0%3A1">
-  
+
 
 #### Visualmente (HTML y CSS)
 
