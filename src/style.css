@@ -1,25 +1,28 @@
-
 .etiqueta{
     width: 100%x;
     font-style: italic;
     height: 100%;
-
 }
 
 .formulario{
     border-style: ridge;
-    padding-top: 13px;
+    padding-top: 15px;
     text-align: center;
+    font-size: 25px;
+    color: #0B2435;
+    box-sizing:border-box;
+  
+    margin-left:auto;
+    margin-right:auto;
+    background:linear-gradient(10deg,#8DDBD1,#B7CCB2,#B7CCB2,#D5F6EA);
+    width:100%;
 }
+
 
 .img{
-    width: 80px;
-    height: 50px;
-
+    width: 100px;
+    height: 60px;
 }
-
-
-
 
 table {
     width: 60%;
@@ -32,30 +35,39 @@ table {
     border: 1px solid #000;
     background-color: ghostwhite;
  }
- 
  body{
-     width:50%;
-     /*
-     text-align:center;
-     height:600px;
-     */
-     /* background-image: url("13.gif"); */
+    width:50%;
+    text-align:left;
+    margin-block-start: 5%;
+    margin-left: 25%;
+    background: #F9F9F9;
+    
+   /* linear-gradient(5deg, #FEE700, hsla(1,10%,85%,1));*/
+}
  
-     margin:25%;
-     text-align:left;
-     margin-block-start: 1%;
-     margin-left: 25%;
-   }
- 
- #contenedor{
- 
-     background-color: #FADF1B;
-     padding-left: 0%;
-     padding-block-end: 0%;
-     padding-top: 0%;
-   }
- 
- #btnProcesarTema1{
- margin-right: 50px;
- }
- 
+#btnCrearCuenta{
+    margin-right: 0px;
+    font-size:20px;
+    color: rgb(240, 240, 240);
+    background: linear-gradient(50deg,   #EE931A, #DB0D09);
+}
+   
+ #btnContinuar{
+    margin-right: 0px;
+    font-size:20px;
+    color: rgb(240, 240, 240);
+    background: linear-gradient(50deg,   #EE931A, #DB0D09);
+}
+ #btnValidar{
+    margin-right: 0px;
+    font-size:20px;
+    color: rgb(240, 240, 240);
+    background: linear-gradient(50deg,   #EE931A, #DB0D09);
+}
+
+ #btnClasscard{
+    margin-right: 0px;
+    font-size:20px;
+    color: rgb(240, 240, 240);
+    background: linear-gradient(50deg,   #EE931A, #DB0D09);
+}
