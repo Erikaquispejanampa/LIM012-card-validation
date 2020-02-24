@@ -14,7 +14,7 @@
   
     margin-left:auto;
     margin-right:auto;
-    background:linear-gradient(10deg,#8DDBD1,#B7CCB2,#B7CCB2,#D5F6EA);
+    background:linear-gradient(10deg,#FED327,#FFD44C,#F7B001,#D5F6EA);
     width:100%;
 }
 
@@ -40,9 +40,7 @@ table {
     text-align:left;
     margin-block-start: 5%;
     margin-left: 25%;
-    background: #F9F9F9;
-    
-   /* linear-gradient(5deg, #FEE700, hsla(1,10%,85%,1));*/
+    background: linear-gradient(5deg, #FEE700, hsla(1,10%,85%,1));*/
 }
  
 #btnCrearCuenta{

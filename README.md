@@ -137,6 +137,9 @@ cómo tu aplicación lo soluciona.
   [Google Slides](https://www.google.com/intl/es/slides/about/), etc.)
 Estos puntos los presentarás en el `README.md`.
 
+Figma: https://www.figma.com/file/WH4xEqntOGbNVzwo6d5NoO/CREDIT-CARD-Colors?node-id=0%3A1
+
+
 ### Scripts / Archivos
 
 #### General
@@ -156,6 +159,12 @@ Debe contener lo siguiente:
   3. Luego colocarás la foto de tu primer prototipo en papel.
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
   5. Imagen del prototipo final.
+  <img src= "Desktop1.png">
+  <img src= "Desktop2.png">
+  <img src= "Desktop3.png">
+  <img src= "Desktop4.png">
+  <img src= "https://www.figma.com/file/WH4xEqntOGbNVzwo6d5NoO/CREDIT-CARD-Colors?node-id=0%3A1">
+  
 
 #### Visualmente (HTML y CSS)
 
