@@ -157,10 +157,10 @@ Debe contener lo siguiente:
   3. Luego colocarás la foto de tu primer prototipo en papel.
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
   5. Imagen del prototipo final.
-  <img src= "Desktop1.png">
-  <img src= "Desktop2.png">
-  <img src= "Desktop3.png">
-  <img src= "Desktop4.png">
+  <img src= "img/Desktop1.png">
+  <img src= "img/Desktop2.png">
+  <img src= "img/Desktop3.png">
+  <img src= "img/Desktop4.png">
   <img src= "https://www.figma.com/file/WH4xEqntOGbNVzwo6d5NoO/CREDIT-CARD-Colors?node-id=0%3A1">
 
 
