@@ -165,12 +165,17 @@ Debe contener lo siguiente:
   "img/imagenfinal.JPG"
 
 * Investigación UX:
+
   1. Explicar quiénes son los usuarios y los objetivos en relación con el
     producto.
+
     Respuesta: Son personas que siempre comprar cursos online.
+    
   2. Explicar cómo el producto soluciona los problemas/necesidades de dichos
     usuarios.
+
     Respuesta:  Este producto le ayuda a obtener descuentos enlazando su tarjeta de crédito.
+
   3. Luego colocarás la foto de tu primer prototipo en papel.
      "img/prototipopapel.jpeg"
 
@@ -179,6 +184,7 @@ Debe contener lo siguiente:
   Respuesta: Mis compañeras me aconsejaron que estaba bien mi producto, sin embargo tenía que mejorar el css, ya que no le tome mucho tiempo en darle mayor diseño.
 
   5. Imagen del prototipo final.
+  
   "img/figma1.JPG"
   "img/figma2.JPG"
   "img/figma3.JPG"
