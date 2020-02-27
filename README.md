@@ -111,8 +111,17 @@ En el `README.md`, cuéntanos cómo pensaste en los usuarios y cuál fue tu proc
 para definir el producto final a nivel de experiencia y de interfaz.
 
 * Quiénes son los principales usuarios de producto.
+
+Respuesta: Son los usuarios o clientes que deseen adquirir una tarjeta digital para obtener descuentos en educación online.
+
 * Cuáles son los objetivos de estos usuarios en relación con tu producto.
+
+Respuesta: Obtener descuentos en productos de educación en línea, como cursos UDEMY, CURSERA, PLATZI, etc.
+
 * Cómo crees que el producto que estás creando está resolviendo sus problemas.
+
+Respuesta: Porque el usuario que desea comprar productos de educación online, puede enmascarar su tarjeta de crédito, con  la finalidad de no exponerlo a diferentes páginas. Es un método de Seguridad a fraude cibernético.
+En conclusión ayuda al cliente a resguardar su tarjeta de crédito.
 
 ### Interfaz de usuario (UI)
 
@@ -147,21 +156,33 @@ Estos puntos los presentarás en el `README.md`.
 Debe contener lo siguiente:
 
 * Un título con el nombre de tu proyecto.
+  Respuesta: "CLASS CARD"
 * Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
+  
+  Respuesta: Crear una tarjeta online que te permita obtener descuentos para comprar cursos en línea.
+
 * La imagen final de tu proyecto.
+  "img/imagenfinal.JPG"
+
 * Investigación UX:
   1. Explicar quiénes son los usuarios y los objetivos en relación con el
     producto.
+    Respuesta: Son personas que siempre comprar cursos online.
   2. Explicar cómo el producto soluciona los problemas/necesidades de dichos
     usuarios.
+    Respuesta:  Este producto le ayuda a obtener descuentos enlazando su tarjeta de crédito.
   3. Luego colocarás la foto de tu primer prototipo en papel.
+     "img/prototipopapel.jpeg"
+
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
+
+  Respuesta: Mis compañeras me aconsejaron que estaba bien mi producto, sin embargo tenía que mejorar el css, ya que no le tome mucho tiempo en darle mayor diseño.
+
   5. Imagen del prototipo final.
-  <img src= "img/Desktop1.png">
-  <img src= "img/Desktop2.png">
-  <img src= "img/Desktop3.png">
-  <img src= "img/Desktop4.png">
-  <img src= "https://www.figma.com/file/WH4xEqntOGbNVzwo6d5NoO/CREDIT-CARD-Colors?node-id=0%3A1">
+  "img/figma1.JPG"
+  "img/figma2.JPG"
+  "img/figma3.JPG"
+  "img/figma4.JPG"
 
 
 #### Visualmente (HTML y CSS)
