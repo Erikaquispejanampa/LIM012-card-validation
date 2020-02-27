@@ -184,11 +184,15 @@ Debe contener lo siguiente:
   Respuesta: Mis compañeras me aconsejaron que estaba bien mi producto, sin embargo tenía que mejorar el css, ya que no le tome mucho tiempo en darle mayor diseño.
 
   5. Imagen del prototipo final.
-  
+
   "img/figma1.JPG"
+
   "img/figma2.JPG"
+
   "img/figma3.JPG"
+
   "img/figma4.JPG"
+  
 
 
 #### Visualmente (HTML y CSS)
