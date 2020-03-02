@@ -162,7 +162,7 @@ Debe contener lo siguiente:
   Respuesta: Crear una tarjeta online que te permita obtener descuentos para comprar cursos en línea.
 
 * La imagen final de tu proyecto.
-  "img/imagenfinal.JPG"
+  ![Pantalla final](imagenfinal.png)
 
 * Investigación UX:
 
@@ -185,16 +185,11 @@ Debe contener lo siguiente:
 
   5. Imagen del prototipo final.
 
-  "img/figma1.JPG"
-
-  "img/figma2.JPG"
-
-  "img/figma3.JPG"
-
-  "img/figma4.JPG"
-  
-
-
+  ![Pantalla final](figma1.JPG)
+  ![Pantalla final](figma2.JPG)
+  ![Pantalla final](figma3.JPG)
+  ![Pantalla final](figma4.JPG)
+ 
 #### Visualmente (HTML y CSS)
 
 Deberás maquetar de forma exacta el prototipo final que hiciste en balsamiq

@@ -9,15 +9,17 @@
   </head>
 
   <body>
-    
+  <main>      
   <div id="contenedor" >
-
+    
     <div id="Presentacion">
       <div class="formulario">
           <label > <b>CLASS CARD</b></label>
           <br>
           <img src="img/visa.png" alt="" class="img">
+          <br>
           <img src="img/master.png" alt="" class="img">
+          <br>
           <img src="img/amex.png" alt="" class="img">
   
         <div class="formulario">
@@ -33,10 +35,10 @@
 
     <div id="Parte1" >
       <div class="formulario">
-          <label >1. Titular de la Tarjeta</label>
+          <label ><b>1. Titular de la Tarjeta</b></label>
         
         <div class="formulario">
-          <img src="img/logo 5.png" class="img">
+          <img src="img/logo1.png" class="img">
           <br>          
           <label >Nombre completo:</label> 
           <input type="text" id="txtNombre" name="txtNombre">
@@ -58,7 +60,7 @@
      
     <div id="Parte2">
       <div class="formulario">
-          <label >2. Datos de la Tarjeta</label>
+          <label ><b>2. Datos de la Tarjeta</b></label>
 
         <div class="formulario">
           <label >Marca de la Tarjeta:</label> 
@@ -90,30 +92,35 @@
 
    <div id="Parte3">
     <div class="formulario">
-        <label >3. Tarjeta Bancaria </label> 
+        <label ><b>3. Tarjeta Bancaria</b></label>
         <br>
         <input type="submit" id="btnClasscard" value="Mi CLASS CARD">
         <br>
         
       <div class="formulario">
         <br> 
-        <img src="img/logo 6.png" alt="" class="img">
-        <br> 
-        <label>Numero de la Tarjeta</label>
-        <input type="text" id="txtNumTarjetaFinal" name="txtNumTarjetaFinal" readonly>
+        <img src="img/logo2.png" alt="" class="img">
         <br> 
         <p>Hola " <label id="lblNombreFinal"></label>" </p>
         <p> <label id="lblMensajeValidacion"></label></p>
         <!-- <p>¡Tu Tarjeta de crédito ha sido validada!</p> -->
-        <p>Su contraseña de esta cuenta ha sido enviada a su correo electronico.</p>
+        <label>Numero de la Tarjeta</label>
+        <br>
+        <input type="text" id="txtNumTarjetaFinal" name="txtNumTarjetaFinal" readonly>
+        <br> 
+        <p>Para generar una contraseña,</p>
+        <p>confirme su correo electrónico.</p>
       </div>
     </div>
   </div>
 
   </div>
 
-    <main></main>
-    <footer></footer>
+      <footer>
+      <br>
+      Copyrigth © 2020 CLASS CARD, Credit Card.
+      </footer>
+      </main>
     <script src="index.js" type="module"></script>
   </body>
 </html>

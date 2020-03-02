@@ -5,6 +5,11 @@
 }
 
 .formulario{
+    margin-top: 15px;
+    border-radius: 10px;
+    font-family:raleway;
+    border: 5px solid #ccc;
+  
     border-style: ridge;
     padding-top: 15px;
     text-align: center;
@@ -14,14 +19,15 @@
   
     margin-left:auto;
     margin-right:auto;
-    background:linear-gradient(10deg,#80CDC9,#6EE5A7,#71BAD1,#D5F6EA);
+    background:linear-gradient(10deg, #101652, #3680C7, #869DCA, #3680C7
+ );
     width:100%;
 }
 
 
 .img{
-    width: 100px;
-    height: 60px;
+    width: 60px;
+    height: 30px;
 }
 
 table {
@@ -36,36 +42,40 @@ table {
     background-color: ghostwhite;
  }
  body{
+    background: url('img/fondopantalla.jpg')no-repeat;
+    background-size: cover;
+    display: flex;
     width:50%;
-    text-align:left;
-    margin-block-start: 5%;
-    margin-left: 25%;
+    margin-block-start: 12%;
+    margin-left: 9%;
+    
     /* background: linear-gradient(5deg, #FEE700, hsla(1,10%,85%,1)); */
 }
+
  
 #btnCrearCuenta{
     margin-right: 0px;
     font-size:20px;
     color: rgb(240, 240, 240);
-    background: linear-gradient(50deg,   #EE931A, #DB0D09);
+    background: linear-gradient(50deg,      #D27680,#FF2A47,#D27680,#FF2A47);
 }
    
  #btnContinuar{
     margin-right: 0px;
     font-size:20px;
     color: rgb(240, 240, 240);
-    background: linear-gradient(50deg,   #EE931A, #DB0D09);
+    background: linear-gradient(50deg,      #D27680,#FF2A47,#D27680,#FF2A47);
 }
  #btnValidar{
     margin-right: 0px;
     font-size:20px;
     color: rgb(240, 240, 240);
-    background: linear-gradient(50deg,   #EE931A, #DB0D09);
+    background: linear-gradient(50deg,      #D27680,#FF2A47,#D27680,#FF2A47);
 }
 
  #btnClasscard{
     margin-right: 0px;
     font-size:20px;
     color: rgb(240, 240, 240);
-    background: linear-gradient(50deg,   #EE931A, #DB0D09);
+    background: linear-gradient(50deg,      #D27680,#FF2A47,#D27680,#FF2A47);
 }

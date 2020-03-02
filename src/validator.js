@@ -60,7 +60,7 @@ const maskify = (creditCardNumber) => {
 };
 
 const soloNumeros = (event) =>{
-   
+   debugger;
   if(Number.isInteger(event.key) )
       return false;
   

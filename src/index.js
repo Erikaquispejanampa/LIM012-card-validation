@@ -51,10 +51,10 @@ const Validar = () => {
     let mensajeValidacion = document.getElementById("lblMensajeValidacion");
 
     if (validator.isValid(numTarjeta)){
-        mensajeValidacion.innerHTML = "¡Tu Tarjeta de crédito ha sido validada!";
+        mensajeValidacion.innerHTML = "¡Tu Tarjeta ha sido validada!";
     }
     else{
-        mensajeValidacion.innerHTML = "¡Tu Tarjeta de crédito NO ha sido validada!";
+        mensajeValidacion.innerHTML = "¡Tu Tarjeta NO ha sido validada!";
     }
 
     document.getElementById("Parte1").style.display = "none";
