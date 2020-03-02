@@ -112,16 +112,16 @@ para definir el producto final a nivel de experiencia y de interfaz.
 
 * Quiénes son los principales usuarios de producto.
 
-Respuesta: Son los usuarios o clientes que deseen adquirir una tarjeta digital para obtener descuentos en educación online.
+**Respuesta: Son los usuarios o clientes que deseen adquirir una tarjeta digital para obtener descuentos en educación online.**
 
 * Cuáles son los objetivos de estos usuarios en relación con tu producto.
 
-Respuesta: Obtener descuentos en productos de educación en línea, como cursos UDEMY, CURSERA, PLATZI, etc.
+**Respuesta: Obtener descuentos en productos de educación en línea, como cursos UDEMY, CURSERA, PLATZI, etc.**
 
 * Cómo crees que el producto que estás creando está resolviendo sus problemas.
 
-Respuesta: Porque el usuario que desea comprar productos de educación online, puede enmascarar su tarjeta de crédito, con  la finalidad de no exponerlo a diferentes páginas. Es un método de Seguridad a fraude cibernético.
-En conclusión ayuda al cliente a resguardar su tarjeta de crédito.
+**Respuesta: El usuario puede comprar cualquier producto de educación online de manera segura, dado que puede enmascarar su tarjeta de crédito, 
+con la finalidad de no exponerlo a diferentes páginas.**
 
 ### Interfaz de usuario (UI)
 
@@ -156,13 +156,13 @@ Estos puntos los presentarás en el `README.md`.
 Debe contener lo siguiente:
 
 * Un título con el nombre de tu proyecto.
-  Respuesta: "CLASS CARD"
+  **Respuesta: "CLASS CARD"**
 * Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
   
-  Respuesta: Crear una tarjeta online que te permita obtener descuentos para comprar cursos en línea.
+  **Respuesta: Enlazar tu tarjeta de crédito con la finalidad de crear una tarjeta online segura que te permita obtener descuentos en compras cursos en línea.**
 
 * La imagen final de tu proyecto.
-  ![Pantalla final](imagenfinal.png)
+  ![imagenfinal](https://user-images.githubusercontent.com/60928595/75717066-6b1ef300-5c9e-11ea-980a-c27c70334963.png)
 
 * Investigación UX:
 
@@ -177,18 +177,17 @@ Debe contener lo siguiente:
     Respuesta:  Este producto le ayuda a obtener descuentos enlazando su tarjeta de crédito.
 
   3. Luego colocarás la foto de tu primer prototipo en papel.
-     "img/prototipopapel.jpeg"
+     ![prototipopapel](https://user-images.githubusercontent.com/60928595/75716902-25fac100-5c9e-11ea-8ca6-1681fd1d6dd7.jpeg)
 
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
 
   Respuesta: Mis compañeras me aconsejaron que estaba bien mi producto, sin embargo tenía que mejorar el css, ya que no le tome mucho tiempo en darle mayor diseño.
 
   5. Imagen del prototipo final.
-
-  ![Pantalla final](figma1.JPG)
-  ![Pantalla final](figma2.JPG)
-  ![Pantalla final](figma3.JPG)
-  ![Pantalla final](figma4.JPG)
+![figma1](https://user-images.githubusercontent.com/60928595/75717130-8689fe00-5c9e-11ea-91f2-e6f59dc8f23b.JPG)
+![figma2](https://user-images.githubusercontent.com/60928595/75717188-a28d9f80-5c9e-11ea-8097-26228b8957b2.JPG)
+![figma3](https://user-images.githubusercontent.com/60928595/75717193-a4eff980-5c9e-11ea-8a8f-5472699175ad.JPG)
+![figma4](https://user-images.githubusercontent.com/60928595/75717198-a7525380-5c9e-11ea-8af9-e73b881868a6.JPG)
  
 #### Visualmente (HTML y CSS)
 
